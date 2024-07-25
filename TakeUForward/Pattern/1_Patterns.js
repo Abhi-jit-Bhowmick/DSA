@@ -20,7 +20,7 @@ function pattern1(row, collumn) {
         let ans = ""
 
         for (let j = 0; j < collumn; j++) {
-            ans += "*"
+            ans += "* "
         }
         console.log(ans)
 
